@@ -1,7 +1,3 @@
-
-# Name = Isaiah Ikharona
-# Problem = Technical test question 3.
-
 def houses_in_line(n):
     def steal_from_house(index):
         if index >= len(n):
